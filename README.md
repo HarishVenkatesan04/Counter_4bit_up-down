@@ -185,3 +185,6 @@ It contains statements that map logical library names to their physical director
 ## Fig 11: Simulation Waveform Window
 ![image](https://github.com/user-attachments/assets/dac51b5e-90ff-41e5-8fad-2026ea26ff65)
 
+### Result
+
+The functionality of a 4bit_up-down asynchronous reset Counter was successfully verified using a test bench and simulated with the nclaunch tool.
